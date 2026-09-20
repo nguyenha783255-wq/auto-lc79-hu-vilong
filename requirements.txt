@@ -1,0 +1,5 @@
+pyTelegramBotAPI>=4.21.0
+python-socketio[client]>=5.11.0
+websocket-client>=1.7.0
+requests>=2.31.0
+flask>=3.0.0
